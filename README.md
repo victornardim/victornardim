@@ -1,6 +1,15 @@
-### Hi there 👋
+### Hello there! :smile:
+
+My name is Victor Nardim, and i'm a software developer from Brazil. :brazil:
+
+My GitHub stats:
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victornardim&title_color=03A062&text_color=03A062&icon_color=03A062&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **victornardim/victornardim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
