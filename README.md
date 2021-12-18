@@ -4,6 +4,6 @@
 [![Spotify profile](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/12148268168?si=7f74e9f8d4004d0a)
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victornardim&title_color=03A062&bg_color=000&icon_color=03A062&text_color=BBB&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victornardim&layout=compact&langs_count=8&title_color=03A062&bg_color=000&icon_color=03A062&text_color=BBB"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victornardim&title_color=00d93b&bg_color=000&icon_color=00d93b&text_color=c9c9c9&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victornardim&layout=compact&langs_count=8&title_color=00d93b&bg_color=000&icon_color=00d93b&text_color=c9c9c9"/>
 </div>
