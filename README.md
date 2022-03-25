@@ -1,4 +1,4 @@
-# Hello there, my name is Victor Nardim! :smile:
+# Hello there, you can call me Vitão! :smile:
 
 [![LinkedIn profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victornardim/)
 [![Spotify profile](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/12148268168?si=7f74e9f8d4004d0a)
