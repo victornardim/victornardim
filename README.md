@@ -12,7 +12,7 @@ I'm a 27 years old brasilian software engineer.
 Currently I'm a software engineer at iFood, the biggest foodtech in latin america.
 
 ## Study :books:
-Currently I'm focusing my studies on GoLang.
+Currently I'm focusing my studies on software and infrastructure architecture.
 
 ## Statistics :chart_with_upwards_trend:
 
