@@ -7,9 +7,9 @@
 I'm a 27 years old brasilian software engineer.
 
 ## Work :computer:
-[![iFood](	https://img.shields.io/badge/iFood-EA1D2C?style=for-the-badge&logo=ifood&logoColor=white)](https://institucional.ifood.com.br/)
+[![Caju](https://assets-global.website-files.com/620135165cdb9f1d60b5d1e3/6244d22a2b78fe6d97518ce9_logo-rodape.svg)](https://www.caju.com.br/)
 
-Currently I'm a software engineer at iFood, the biggest foodtech in latin america.
+Currently I'm a software engineer at Caju, a flexible benefits company.
 
 ## Study :books:
 Currently I'm focusing my studies on software and infrastructure architecture.
